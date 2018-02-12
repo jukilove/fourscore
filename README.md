@@ -1,5 +1,5 @@
 # TEAM NAAEP
-#"National Association for the Advancement of Engineering People"
+"National Association for the Advancement of Engineering People"
 
 # GoogleDCHack2018 - *FourScore*
 **FourScore** is a sport app created by NAAEP team at GOOGLEDC Hackathon 2018.
